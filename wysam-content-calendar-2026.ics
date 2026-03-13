@@ -7,7 +7,7 @@ X-WR-CALNAME:La Wysam — Content Calendar 2026
 X-WR-CALDESC:Social media posts and email campaigns for La Wysam 2026
 BEGIN:VEVENT
 UID:wysam-post-01-20260222@vcorbe.ch
-DTSTAMP:20260307T000000Z
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260222
 DTEND;VALUE=DATE:20260223
 SUMMARY:[post] 01 — Save the Date (6-month countdown)
@@ -15,7 +15,7 @@ DESCRIPTION:Theme: Save the Date — first reveal with 6-month countdown\nObject
 END:VEVENT
 BEGIN:VEVENT
 UID:wysam-post-02-20260224@vcorbe.ch
-DTSTAMP:20260307T000000Z
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260224
 DTEND;VALUE=DATE:20260225
 SUMMARY:[post] 02 — The three challenges (route overview teaser)
@@ -23,7 +23,7 @@ DESCRIPTION:Theme: The three challenges — route overview teaser\nObjective: Re
 END:VEVENT
 BEGIN:VEVENT
 UID:wysam-post-03-20260228@vcorbe.ch
-DTSTAMP:20260307T000000Z
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260228
 DTEND;VALUE=DATE:20260301
 SUMMARY:[post] 03 — The big reveal: Wysam Ultra 555
@@ -31,215 +31,223 @@ DESCRIPTION:Theme: The big reveal — Wysam Ultra 555\nObjective: Unveil the sur
 END:VEVENT
 BEGIN:VEVENT
 UID:wysam-post-04-20260301@vcorbe.ch
-DTSTAMP:20260307T000000Z
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
 SUMMARY:[post] 04 — Registrations open!
 DESCRIPTION:Theme: Registrations open!\nObjective: Drive immediate sign-ups on launch day\nNote: Coordinate with Email 1 (same day). Consider boosting on Facebook.
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-05-20260307@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260307
-DTEND;VALUE=DATE:20260308
+UID:wysam-post-05-20260308@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
 SUMMARY:[post] 05 — Route spotlight: La Route 66
 DESCRIPTION:Theme: Route spotlight — La Wysam "Route 66"\nObjective: Make the entry-level distance appealing\; bring in first-timers
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-06-20260314@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260314
-DTEND;VALUE=DATE:20260315
+UID:wysam-post-06-20260315@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
 SUMMARY:[post] 06 — Route spotlight: La Wysam 111
 DESCRIPTION:Theme: Route spotlight — La Wysam 111\nObjective: Target intermediate/experienced cyclists ready for a real challenge
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-07-20260321@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260321
-DTEND;VALUE=DATE:20260322
+UID:wysam-post-07-20260322@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
 SUMMARY:[post] 07 — Route spotlight: Le Défi "3333"
 DESCRIPTION:Theme: Route spotlight — Le Défi "3333"\nObjective: Inspire the ambitious\; create aspiration and FOMO for the ultimate distance
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-08-20260404@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260405
-SUMMARY:[post] 08 — Kids Race announcement
-DESCRIPTION:Theme: Kids Race announcement\nObjective: Bring in families and broaden appeal beyond competitive cyclists
+UID:wysam-post-08-20260329@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:[post] 08 — Route spotlight: Wysam Ultra 555
+DESCRIPTION:Theme: Route spotlight — Wysam Ultra 555\nObjective: Showcase the ultra-endurance option\; create awe and aspirational FOMO around the most extreme challenge\nSpecs: 555 km across Switzerland / 6\,700 m D+ / self-supported / starts Fri 21 Aug 15:00
 END:VEVENT
 BEGIN:VEVENT
 UID:wysam-post-09-20260405@vcorbe.ch
-DTSTAMP:20260307T000000Z
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260405
 DTEND;VALUE=DATE:20260406
-SUMMARY:[post] 09 — Rando / e-bike variant
+SUMMARY:[post] 09 — Kids Race announcement
+DESCRIPTION:Theme: Kids Race announcement\nObjective: Bring in families and broaden appeal beyond competitive cyclists
+END:VEVENT
+BEGIN:VEVENT
+UID:wysam-post-10-20260406@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:[post] 10 — Rando / e-bike variant
 DESCRIPTION:Theme: Rando / e-bike variant — inclusive angle\nObjective: Reach a wider audience\; show that La Wysam is for everyone
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-10-20260411@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260411
-DTEND;VALUE=DATE:20260412
-SUMMARY:[post] 10 — Training motivation
+UID:wysam-post-11-20260412@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:[post] 11 — Training motivation
 DESCRIPTION:Theme: Training motivation — challenge yourself\nObjective: Keep registered riders engaged and motivated during training
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-11-20260418@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:[post] 11 — Community: team\, friends\, family
+UID:wysam-post-12-20260419@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:[post] 12 — Community: team\, friends\, family
 DESCRIPTION:Theme: Community — team\, friends\, family\nObjective: Encourage group sign-ups and social sharing
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-12-20260425@vcorbe.ch
-DTSTAMP:20260307T000000Z
+UID:wysam-post-13-20260425@vcorbe.ch
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260426
-SUMMARY:[post] 12 ⚠️ — Price increase warning: April 30
+SUMMARY:[post] 13 ⚠️ — Price increase warning: April 30
 DESCRIPTION:Theme: Price increase warning — April 30\nObjective: Drive urgent sign-ups before the first price increase\nDeadline: April 30 midnight — publish no later than Apr 25
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-13-20260502@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260502
-DTEND;VALUE=DATE:20260503
-SUMMARY:[post] 13 — New tier live: still time to register
+UID:wysam-post-14-20260503@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:[post] 14 — New tier live: still time to register
 DESCRIPTION:Theme: New tier is live — still time to register\nObjective: Re-engage those who missed the first deadline
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-14-20260509@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-SUMMARY:[post] 14 — Nord-Vaudois region highlight
+UID:wysam-post-15-20260510@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:[post] 15 — Nord-Vaudois region highlight
 DESCRIPTION:Theme: Nord-Vaudois region highlight — why Orbe?\nObjective: Build emotional connection to the location and territory
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-15-20260516@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:[post] 15 — Training tips
+UID:wysam-post-16-20260517@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:[post] 16 — Training tips
 DESCRIPTION:Theme: Training tips\nObjective: Provide value to followers\; keep registered riders engaged
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-16-20260523@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-SUMMARY:[post] 16 — Share your "why" (community engagement)
+UID:wysam-post-17-20260524@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:[post] 17 — Share your "why" (community engagement)
 DESCRIPTION:Theme: Share your "why" — community engagement post\nObjective: Generate UGC\; boost engagement and organic reach
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-17-20260530@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260530
-DTEND;VALUE=DATE:20260531
-SUMMARY:[post] 17 — Team/club challenge
+UID:wysam-post-18-20260531@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:[post] 18 — Team/club challenge
 DESCRIPTION:Theme: Team/club challenge\nObjective: Target cycling clubs and groups\; encourage block registrations
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-18-20260613@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260614
-SUMMARY:[post] 18 — Route preview / elevation profile
+UID:wysam-post-19-20260614@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:[post] 19 — Route preview / elevation profile
 DESCRIPTION:Theme: Route preview / elevation profile\nObjective: Build anticipation with route detail\; help riders visualise the challenge
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-19-20260620@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20260621
-SUMMARY:[post] 19 — Countdown: 2 months to go
+UID:wysam-post-20-20260621@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:[post] 20 — Countdown: 2 months to go
 DESCRIPTION:Theme: Countdown motivation — 2 months to go\nObjective: Maintain momentum and excitement heading into summer
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-20-20260627@vcorbe.ch
-DTSTAMP:20260307T000000Z
+UID:wysam-post-21-20260627@vcorbe.ch
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
-SUMMARY:[post] 20 ⚠️ — Price increase warning: June 30
+SUMMARY:[post] 21 ⚠️ — Price increase warning: June 30
 DESCRIPTION:Theme: Price increase warning — June 30\nObjective: Drive urgent sign-ups before the second price increase\nDeadline: June 30 midnight — publish no later than Jun 27
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-21-20260704@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-SUMMARY:[post] 21 — New tier live: last chance angle
+UID:wysam-post-22-20260705@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:[post] 22 — New tier live: last chance angle
 DESCRIPTION:Theme: New tier live — last chance angle\nObjective: Final push for late registrants\; frame urgency around the last price tier
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-22-20260711@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-SUMMARY:[post] 22 — What to expect on race day
+UID:wysam-post-23-20260712@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:[post] 23 — What to expect on race day
 DESCRIPTION:Theme: What to expect on race day\nObjective: Help participants prepare mentally\; build excitement for the event experience
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-23-20260718@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-SUMMARY:[post] 23 — Orbe local area highlight
+UID:wysam-post-24-20260719@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:[post] 24 — Orbe local area highlight
 DESCRIPTION:Theme: Orbe local area highlight\nObjective: Showcase the host town\; build local pride and external interest
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-24-20260725@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:[post] 24 — Less than a month to go
+UID:wysam-post-25-20260726@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:[post] 25 — Less than a month to go
 DESCRIPTION:Theme: Less than a month to go — countdown\nObjective: Ramp up excitement as the event approaches
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-25-20260801@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-SUMMARY:[post] 25 — Final preparations checklist
+UID:wysam-post-26-20260802@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:[post] 26 — Final preparations checklist
 DESCRIPTION:Theme: Final preparations checklist\nObjective: Help participants feel ready and confident in the last weeks
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-26-20260806@vcorbe.ch
-DTSTAMP:20260307T000000Z
+UID:wysam-post-27-20260806@vcorbe.ch
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
-SUMMARY:[post] 26 ⚠️ — Price increase warning: August 9 (final)
+SUMMARY:[post] 27 ⚠️ — Price increase warning: August 9 (final)
 DESCRIPTION:Theme: Price increase warning — August 9 (final)\nObjective: Last call for registrations before the final price tier\nDeadline: August 9 midnight — publish no later than Aug 6
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-27-20260815@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:[post] 27 — Last registrations / final week hype
+UID:wysam-post-28-20260816@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:[post] 28 — Last registrations / final week hype
 DESCRIPTION:Theme: Last registrations / final week hype\nObjective: Create a buzz in the final week before race day
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-28-20260822@vcorbe.ch
-DTSTAMP:20260307T000000Z
+UID:wysam-post-29-20260822@vcorbe.ch
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-SUMMARY:[post] 28 🏁 — Race day!
+SUMMARY:[post] 29 🏁 — Race day!
 DESCRIPTION:Theme: Race day — celebration and community\nObjective: Celebrate the event\; engage live and build community energy\nNote: Publish on the morning of race day.
 END:VEVENT
 BEGIN:VEVENT
-UID:wysam-post-29-20260824@vcorbe.ch
-DTSTAMP:20260307T000000Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:[post] 29 — Thank you + highlights
+UID:wysam-post-30-20260830@vcorbe.ch
+DTSTAMP:20260313T000000Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:[post] 30 — Thank you + highlights
 DESCRIPTION:Theme: Thank you + highlights\nObjective: Close the campaign\; celebrate participants\; build community for future editions
 END:VEVENT
 BEGIN:VEVENT
 UID:wysam-email-1-20260301@vcorbe.ch
-DTSTAMP:20260307T000000Z
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
 SUMMARY:[email] 1 — Registrations open (launch day)
@@ -247,7 +255,7 @@ DESCRIPTION:Trigger: Registrations open — launch day\nAudience: All subscriber
 END:VEVENT
 BEGIN:VEVENT
 UID:wysam-email-2-20260423@vcorbe.ch
-DTSTAMP:20260307T000000Z
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
 SUMMARY:[email] 2 ⚠️ — Price increase #1 warning (7 days to Apr 30)
@@ -255,7 +263,7 @@ DESCRIPTION:Trigger: Price increase #1 warning — 7 days to 30 April midnight\n
 END:VEVENT
 BEGIN:VEVENT
 UID:wysam-email-3-20260514@vcorbe.ch
-DTSTAMP:20260307T000000Z
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
 SUMMARY:[email] 3 (optional) — Engagement: discover the routes
@@ -263,7 +271,7 @@ DESCRIPTION:Trigger: Engagement / keep the list warm\nAudience: All subscribers\
 END:VEVENT
 BEGIN:VEVENT
 UID:wysam-email-4-20260623@vcorbe.ch
-DTSTAMP:20260307T000000Z
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:[email] 4 ⚠️ — Price increase #2 warning (7 days to Jun 30)
@@ -271,7 +279,7 @@ DESCRIPTION:Trigger: Price increase #2 warning — 7 days to 30 June\nAudience: 
 END:VEVENT
 BEGIN:VEVENT
 UID:wysam-email-5-20260709@vcorbe.ch
-DTSTAMP:20260307T000000Z
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SUMMARY:[email] 5 (optional) — Countdown: 44 days to go
@@ -279,7 +287,7 @@ DESCRIPTION:Trigger: Countdown / race prep — 44 days to go\nAudience: All subs
 END:VEVENT
 BEGIN:VEVENT
 UID:wysam-email-6-20260802@vcorbe.ch
-DTSTAMP:20260307T000000Z
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
 SUMMARY:[email] 6 ⚠️ — Price increase #3 warning: final (7 days to Aug 9)
@@ -287,7 +295,7 @@ DESCRIPTION:Trigger: Price increase #3 warning — 7 days to 9 August (final inc
 END:VEVENT
 BEGIN:VEVENT
 UID:wysam-email-7-20260817@vcorbe.ch
-DTSTAMP:20260307T000000Z
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
 SUMMARY:[email] 7 — Ultra 555 pre-race briefing (Ultra participants only)
@@ -295,7 +303,7 @@ DESCRIPTION:Trigger: Ultra 555 pre-race briefing — 4 days before start\nAudien
 END:VEVENT
 BEGIN:VEVENT
 UID:wysam-email-8-20260821@vcorbe.ch
-DTSTAMP:20260307T000000Z
+DTSTAMP:20260313T000000Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
 SUMMARY:[email] 8 — Pre-race briefing (La Route 66 · Wysam 111 · 3333 · Kids Race)
